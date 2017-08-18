@@ -1,7 +1,7 @@
 # mdBook-bujinkan-template
 A mdBook template for Bujinkan practitioners.
 
-The names and kata listings are from a great webpage [wanderings in budo](https://bujinshugyo.wordpress.com/).
+The names and kata listings are from a great webpage [wanderings in budo](https://bujinshugyo.wordpress.com/) with some additions of my own.
 
 ## How to use
 Please see [mdBook install instructions](https://github.com/azerupi/mdBook) and [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/) by GitHub.
