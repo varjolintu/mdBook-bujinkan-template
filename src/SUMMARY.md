@@ -69,4 +69,4 @@
 	- [Chi ryaku no maki](./tenchijin/02_chi_ryaku_no_maki.md)
 	- [Jin ryaku no maki](./tenchijin/03_jin_ryaku_no_maki.md)
 - [Kyūsho](./04_kyusho.md)
-- [Notes](.05_notes.md)
+- [Notes](./05_notes.md)
