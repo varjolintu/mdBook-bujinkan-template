@@ -9,3 +9,6 @@ Please see [mdBook install instructions](https://github.com/azerupi/mdBook) and 
 You can edit the `src/SUMMARY.md` if you want to change or edit any chapters of the text.
 
 Basically, when you are done with your updates, build the book with `mdbook build` and you can open `book/index.html` locally or upload the page to your server.
+
+## Screenshot
+![dialog](https://raw.githubusercontent.com/varjolintu/mdBook-bujinkan-template/master/template.png)
